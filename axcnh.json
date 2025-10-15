@@ -1,44 +1,34 @@
 {
   "version": "0.0.0",
-  "title": "native-usdt0",
-  "get-usdt0-link": "",
-  "bridge-usdt0-link": "",
+  "title": "axcnh",
+  "get-axcnh-link": "",
+  "earn-yield-link": "",
   "learn-more-link": "",
   "earn": [
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Swappi.png",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Wallfreex.svg",
+      "name": "WallFreeX",
+      "link": ""
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/dForce.svg",
+      "name": "dForce",
+      "link": ""
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Swappi.svg",
       "name": "Swappi",
-      "link": "https://swappi.io/"
+      "link": ""
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Meson.png",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Meson.svg",
       "name": "Meson",
-      "link": "https://meson.fi/"
+      "link": ""
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Ethereum.png",
-      "name": "Ethereum",
-      "link": "https://ethereum.org/"
-    },
-    {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/BNB.png",
-      "name": "BNB Smart Chain",
-      "link": "https://www.binance.com/en/smart-chain"
-    },
-    {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/cBridge.png",
-      "name": "cBridge",
-      "link": "https://cbridge.celer.network/"
-    },
-    {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Scroll.png",
-      "name": "Scroll",
-      "link": "https://scroll.io/"
-    },
-    {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/0G.png",
-      "name": "0G",
-      "link": "https://0g.ai/"
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Scan.svg",
+      "name": "Confluxscan",
+      "link": ""
     }
   ]
 }
