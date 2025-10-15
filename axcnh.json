@@ -1,29 +1,6 @@
 {
   "version": "0.0.0",
   "title": "axcnh",
-  "top-links": [
-    "https://meson.fi/cex/axcnh",
-    "https://app.wallfreex.com/swap?sourceToken=0xfe97e85d13abd9c1c33384e796f10b73905637ce&destinationToken=0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e",
-  ],
-  "lending-links": [
-    {
-      "name": "dForce",
-      "link": ""
-    },
-  ],
-  "farming-links": [
-    {
-      "name": "Swappi",
-      "link": ""
-    },
-    {
-      "name": "WallFreeX",
-      "link": ""
-    }
-  ],
-  "bottom-links": [
-    "https://www.anchorx.org/",
-  ],
   "ecosystem": [
     {
       "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Wallfreex.svg",
