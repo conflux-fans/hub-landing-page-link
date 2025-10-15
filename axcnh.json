@@ -26,6 +26,11 @@
       "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Scan.svg",
       "name": "Confluxscan",
       "link": "https://evm.confluxscan.org/token/0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Fluent.svg",
+      "name": "Fluent",
+      "link": "https://fluentwallet.com/"
     }
   ]
 }
