@@ -3,32 +3,32 @@
   "title": "axcnh",
   "ecosystem": [
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Wallfreex.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Wallfreex.svg",
       "name": "WallFreeX",
       "link": "https://app.wallfreex.com/swap?sourceToken=0xfe97e85d13abd9c1c33384e796f10b73905637ce&destinationToken=0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/dForce.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/dForce.svg",
       "name": "dForce",
       "link": "https://dforce.network/"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Swappi.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Swappi.svg",
       "name": "Swappi",
       "link": "https://app.swappi.io/#/swap"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Meson.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Meson.svg",
       "name": "Meson",
       "link": "https://meson.fi/cex/axcnh"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Scan.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Scan.svg",
       "name": "Confluxscan",
       "link": "https://evm.confluxscan.org/token/0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e"
     },
     {
-      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/ustd0-link@main/icon/Fluent.svg",
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Fluent.svg",
       "name": "Fluent",
       "link": "https://fluentwallet.com/"
     }
