@@ -1,9 +1,6 @@
 {
   "version": "0.0.0",
   "title": "native-usdt0",
-  "get-usdt0-link": "",
-  "bridge-usdt0-link": "",
-  "learn-more-link": "",
   "earn": [
     {
       "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Swappi.svg",
