@@ -1,7 +1,7 @@
 {
   "version": "0.0.0",
   "title": "native-usdt0",
-  "withdrawFromCEX": [
+  "withdraw": [
    {
       "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Meson.svg",
       "name": "Meson",
