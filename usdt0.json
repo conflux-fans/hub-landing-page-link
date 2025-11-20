@@ -2,6 +2,35 @@
   "version": "0.0.0",
   "title": "native-usdt0",
   "ecosystem": [
-  
+   {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Wallfreex.svg",
+      "name": "WallFreeX",
+      "link": "https://app.wallfreex.com/"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Swappi.svg",
+      "name": "Swappi",
+      "link": "https://app.swappi.io/#/swap"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/dForce.svg",
+      "name": "dForce",
+      "link": "https://dforce.network/"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Xunion.svg",
+      "name": "Xunion",
+      "link": "https://app.xunion.io/#/x-lending/dashboard"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Scan.svg",
+      "name": "Confluxscan",
+      "link": "https://evm.confluxscan.org/token/0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Fluent.svg",
+      "name": "Fluent",
+      "link": "https://fluentwallet.com/"
+    }
   ]
 }
