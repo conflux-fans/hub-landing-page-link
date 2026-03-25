@@ -31,6 +31,16 @@
       "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/Fluent.svg",
       "name": "Fluent",
       "link": "https://fluentwallet.com/"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/weex.svg",
+      "name": "WEEX",
+      "link": "https://www.weex.com/spot/AXCNH-USDT"
+    },
+    {
+      "icon": "https://cdn.jsdelivr.net/gh/conflux-fans/hub-landing-page-link@main/icon/XT.svg",
+      "name": "XT",
+      "link": "https://www.xt.com/en/trade/axcnh_usdt"
     }
   ]
 }
